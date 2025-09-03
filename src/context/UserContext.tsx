@@ -1,4 +1,4 @@
-@@ .. @@
+
    const fetchUserProfile = async (userId: string) => {
      try {
 -      const { data, error } = await supabase
